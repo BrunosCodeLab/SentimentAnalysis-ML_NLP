@@ -1,5 +1,5 @@
 # Sentiment Analysis Project
-This project explores sentiment analysis as an application of natural language processing (NLP) in tourism, specifically through the analysis of guest reviews. During the development process, I gained valuable experience in data handling, text preprocessing, training sentiment analysis models, and evaluating their performance.
+This project explores sentiment analysis as an application of natural language processing (NLP) in tourism, specifically through the analysis of guest reviews. During the development process, I gained valuable experience in data handling, text preprocessing, training sentiment analysis models, and evaluating their performance. Also, the code was written in Google Colab.
 
 # Language 
 <ins>The project and its comments are written in **Croatian</ins>** while the reviews are written in English.
