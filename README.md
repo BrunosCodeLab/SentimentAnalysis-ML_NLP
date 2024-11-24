@@ -4,11 +4,42 @@ This project explores sentiment analysis as an application of natural language p
 <ins>The project and its comments are written in **Croatian</ins>** while the reviews are written in English.
 
 # Project Overview
-This project aims to create a user-oriented solution for sentiment analysis, allowing users to analyze guest reviews via various input options:
+This project aims to create a user-oriented solution for sentiment analysis, allowing users to analyze guest reviews via various input options (<ins>**Menu is written in Croatian</ins>**):
+<br><br>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/SA_Options.png" alt="description" width="720" />
+</div>
+<br>
 
 - Text File Input: Upload text files for sentiment analysis.
-. Short Review Input: Enter individual short reviews for immediate processing.
-. Random Review Analysis: Analyze randomly selected reviews from test datasets.
+<br><br>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/SA_Option1.png" alt="description" width="720" />
+</div>
+<br>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/SA_Continue.png" alt="description" width="720" />
+</div>
+<br>
+
+- Short Review Input: Enter individual short reviews for immediate processing.
+<br><br>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/SA_Option2.png" alt="description" width="720" />
+</div>
+<br>
+  
+- Random Review Analysis: Analyze randomly selected reviews from test datasets.
+<br><br>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/SA_Option3.png" alt="description" width="720" />
+</div>
+<br>
+
 
 The user interface is designed to streamline the process, providing quick and actionable insights from guest reviews. While the model shows strong performance, it occasionally misclassifies even obvious positive or negative reviews. This highlights the inherent imperfections of machine learning models, as no model is ever 100% accurate.
 
