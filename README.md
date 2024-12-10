@@ -1,4 +1,4 @@
-# Sentiment Analysis Project ![Project Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBrunosCodeLab%2FSentimentAnalysis-CRO&count_bg=%235C9CFF&title_bg=%23008FC9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+# Sentiment Analysis ![Project Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBrunosCodeLab%2FSentimentAnalysis-CRO&count_bg=%235C9CFF&title_bg=%23008FC9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 This project explores sentiment analysis as an application of natural language processing (NLP) in tourism, specifically through the analysis of guest reviews. During the development process, I gained valuable experience in data handling, text preprocessing, training sentiment analysis models, and evaluating their performance.
 # Language 
