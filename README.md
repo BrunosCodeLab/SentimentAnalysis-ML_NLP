@@ -9,7 +9,7 @@ This project aims to create a user-oriented solution for sentiment analysis, all
 <br><br>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/SA_Options.png" alt="description" width="720" />
+    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/SentimentAnalysis-ML_NLP/SA_Options.png" alt="description" width="720" />
 </div>
 <br>
 
@@ -17,11 +17,11 @@ This project aims to create a user-oriented solution for sentiment analysis, all
 <br><br>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/SA_Option1.png" alt="description" width="720" />
+    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/SentimentAnalysis-ML_NLP/SA_Option1.png" alt="description" width="720" />
 </div>
 <br>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/SA_Continue.png" alt="description" width="720" />
+    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/SentimentAnalysis-ML_NLP/SA_Continue.png" alt="description" width="720" />
 </div>
 <br>
 
@@ -29,7 +29,7 @@ This project aims to create a user-oriented solution for sentiment analysis, all
 <br><br>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/SA_Option2.png" alt="description" width="720" />
+    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/SentimentAnalysis-ML_NLP/SA_Option2.png" alt="description" width="720" />
 </div>
 <br>
   
@@ -37,7 +37,7 @@ This project aims to create a user-oriented solution for sentiment analysis, all
 <br><br>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/SA_Option3.png" alt="description" width="720" />
+    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/SentimentAnalysis-ML_NLP/SA_Option3.png" alt="description" width="720" />
 </div>
 <br>
 
